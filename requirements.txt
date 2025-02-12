@@ -1,0 +1,7 @@
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+pypdf
+chromadb  # Added ChromaDB for persistent vector storage
+# faiss-cpu  # Removed FAISS since we are using ChromaDB
